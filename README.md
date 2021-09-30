@@ -61,7 +61,6 @@ _don't write `albumId` instead of `id_album` for example_.
 - :white_check_mark: `PUT` and `DELETE` request should return `204 no content`.
 - :white_check_mark: Respect as much as you can REST practices
 - :white_check_mark: `POST` request should return `201 created` with the associated created resource.
-- :white_check_mark: Don't remove the `module.exports = app` in the `app.js` file. We need it for the tests !
 - :white_check_mark: All routes should starts with `/api`
 
 ### To Display
