@@ -79,7 +79,7 @@ _don't write `albumId` instead of `id_album` for example_.
 - :headphones: DELETE `/api/albums`
 
 :warning: You **NEED** to have a track in your database with the `id` 1, and an album with the `id` 1.  
-Otherwise, 3 tests are going to fail.
+
 
 ---
 
