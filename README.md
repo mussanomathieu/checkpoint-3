@@ -66,10 +66,6 @@ _don't write `albumId` instead of `id_album` for example_.
 
 ### Tests
 
-This checkpoint comes with integration tests on most of the routes.
-
-![](https://media.giphy.com/media/sECT307ocX509Gh9bI/giphy.gif)
-
 - :loud_sound: GET `/api/tracks`
 - :loud_sound: GET `/api/tracks/1`
 - :loud_sound: POST `/api/tracks`
@@ -103,7 +99,6 @@ Here are some user stories about what you need to do:
 - As a user, I need to be able to update an album
 - As a user, I need to be able to delete an album
 
-_Remember: for the tests to work properly, you need an `album` with id `1` and a track with id `1` in your DB !_
 
 ## It's done ! Congrats !
 
