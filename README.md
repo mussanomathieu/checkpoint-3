@@ -64,7 +64,7 @@ _don't write `albumId` instead of `id_album` for example_.
 - :white_check_mark: Don't remove the `module.exports = app` in the `app.js` file. We need it for the tests !
 - :white_check_mark: All routes should starts with `/api`
 
-### Tests
+### To Display
 
 - :loud_sound: GET `/api/tracks`
 - :loud_sound: GET `/api/tracks/1`
