@@ -31,7 +31,7 @@ You can use the tool of your choice to produce the database model :
 
 - ✏️ Paper and pencil (my recommendation)
 
-- 🛠️ any diagram drawing applications like [Workbench](https://www.mysql.com/fr/products/workbench/), [Draw.io](https://app.diagrams.net/), [Google Drawings](https://chrome.google.com/webstore/detail/google-drawings/mkaakpdehdafacodkgkpghoibnmamcme/related?hl=fr)...
+- 🛠️ any diagram drawing applications like [QuickDB](https://www.quickdatabasediagrams.com/), [Workbench](https://www.mysql.com/fr/products/workbench/), [Draw.io](https://app.diagrams.net/), [Google Drawings](https://chrome.google.com/webstore/detail/google-drawings/mkaakpdehdafacodkgkpghoibnmamcme/related?hl=fr)... 
 
 Once you're satisfied with your data model, take a picture, a screenshot or export as an image and commit it to your branch.
 
